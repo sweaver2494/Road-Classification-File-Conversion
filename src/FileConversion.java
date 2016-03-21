@@ -1,4 +1,4 @@
-/*
+/* A new feature file is created using files in RawData folder.
  *
  * @author Scott Weaver
  */
@@ -11,7 +11,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-/******A new feature file is created using files in RawData folder.*****/
 
 public class FileConversion {
     
